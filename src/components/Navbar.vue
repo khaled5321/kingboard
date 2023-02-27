@@ -6,7 +6,7 @@
                 <h1 class="text-2xl text-white font-extrabold font-serif md:text-4xl drop-shadow-lg">KingBoard</h1> 
             </RouterLink>
 
-            <RouterLink to="/" class="mr-0 drop-shadow-lg font-bold font-mono ml-auto p-2 bg-[#c9d8d3] rounded md:p-3 text-gray-900">
+            <RouterLink to="/" class="mr-0 drop-shadow-lg font-bold font-mono ml-auto p-2 bg-[#c9d8d3] hover:bg-[#b2bfba] transition-colors rounded md:p-3 text-gray-900">
                 Login
             </RouterLink>
         </nav>
